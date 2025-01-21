@@ -24,15 +24,14 @@ JENNA isn't just another trading bot or social media automation tool. She's a S.
 - Dynamic personality adaptation
 
 #### Trading Capabilities
-- Multi-DEX integration (Jupiter, Orca)
+- DEX integration (Jupiter)
 - Real-time market analysis
 - AI-driven trading strategies
 - Risk management system
 - Portfolio optimization
 
 #### AI Integration
-- Primary: DeepSeek (33B parameters)
-- Secondary Models: Groq, OpenAI GPT-4, Claude-3
+- Primary: Groq
 - Custom prompt engineering
 - Advanced context understanding
 
@@ -50,7 +49,7 @@ JENNA isn't just another trading bot or social media automation tool. She's a S.
 
 - **Advanced Trading Capabilities**
   - Real-time market analysis and execution
-  - Multi-DEX integration (Jupiter, Orca)
+  - DEX integration (Jupiter)
   - Dynamic slippage protection
   - Automated portfolio optimization
   - Social sentiment correlation
