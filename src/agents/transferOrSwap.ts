@@ -1,6 +1,6 @@
 import { createReactAgent } from "@langchain/langgraph/prebuilt";
 import { SolanaTransferTool } from "solana-agent-kit/dist/langchain";
-import { transferSwapPrompt } from "../prompts/transferSwap.js";
+
 
 
 import { agentKit } from "@/utils/solanaAgent.js";
@@ -10,7 +10,7 @@ import { ChatGroq } from "@langchain/groq";
 const groq = new ChatGroq({ apiKey: process.env.GROQ_API_KEY! });
 
 const transferOrSwapAgent = createReactAgent({
-  stateModifier: transferSwapPrompt,
+  stateModifier: (state) => state.messages,
   llm: groq,
   tools: [new SolanaTransferTool(agentKit)],
 });
