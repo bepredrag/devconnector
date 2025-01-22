@@ -2,7 +2,7 @@ import { createInterface } from 'readline';
 import { ChatHistoryManager } from './ChatHistoryManager.js';
 import { ModeManager } from './ModeManager.js';
 import { CommandHandler } from './CommandHandler.js';
-import { Mode, ModeConfig } from './types.js';
+import { Mode, ModeConfig } from './types.js'; 
 import { elizaLogger } from "@ai16z/eliza";
 import { AIService } from '../ai/ai.js';
 

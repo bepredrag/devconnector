@@ -1,7 +1,6 @@
 // src/config/settings.ts
 import * as dotenv from 'dotenv';
-
-//import { validateConfig } from '../utils/config-validator';
+import configValidator from '../utils/config-validator';
 
 dotenv.config();
 

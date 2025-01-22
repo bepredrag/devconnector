@@ -59,4 +59,4 @@ export class Logger {
   }
 }
 
-export const logger = new Logger('default');     
+export const logger = new Logger('default');

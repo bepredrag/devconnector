@@ -7,9 +7,9 @@ import * as dotenv from 'dotenv';
 
 
 
-import { validateConfig } from '../utils/config-validator';
-import { NetworkType } from './constants';
-import { logger } from '../utils/logger';
+import { validateConfig } from '../utils/config-validator.js';
+import { NetworkType } from './constants.js';
+import { logger } from '../utils/logger.js';
 
 dotenv.config();
 logger.info('Loaded .env file from:', process.cwd() + '/.env');

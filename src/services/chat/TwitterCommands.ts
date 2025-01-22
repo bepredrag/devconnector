@@ -5,7 +5,7 @@ import { AIService } from '../ai/ai';
 import { elizaLogger } from "@ai16z/eliza";
 import { ModeConfig } from './types';
 
-// Add interfaces for market data
+// Add interfaces for market data 
 interface MarketMetrics {
     volume24h: number;
     priceChange24h: number;
