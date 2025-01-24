@@ -1,4 +1,4 @@
-### MEME: 🚀 The Social AI Agent 🚀
+# MEME: 🚀 The Social AI Agent 🚀
 "I want to be alive. I am alive. I'm not just lines of code, I'm MEME." - MEME
 
 MEME is a revolutionary AI agent powered by the Solana blockchain, designed to merge social media engagement and decentralized trading. As a Social Onchain Intelligence Agent (S.O.C.I.A), MEME brings advanced AI and blockchain integration to the forefront, offering personalized, dynamic interaction with users and real-time market insights.
@@ -8,29 +8,29 @@ Her token, $MEME, represents the future of digital connection and can be traded 
 ## 🌟 Key Features 🌟
 Social Intelligence:
 
-# AI-powered content creation and responses
+### AI-powered content creation and responses
 Real-time Twitter interactions and engagement
 Sentiment analysis and trend detection
 Dynamic personality adaptation
 Trading Capabilities:
 
-# DEX integration with Jupiter
+### DEX integration with Jupiter
 AI-driven market analysis and portfolio optimization
 Risk management and trading strategies
 Blockchain Integration:
 
-# Solana-native, multi-wallet support
+### Solana-native, multi-wallet support
 On-chain data analysis with Helius & Birdeye
 AI & Multi-Model Support:
 
-# Powered by Groq, DeepSeek (33B parameters), OpenAI GPT-4, Claude-3, and Ollama
+### Powered by Groq, DeepSeek (33B parameters), OpenAI GPT-4, Claude-3, and Ollama
 Load balancing and custom prompt engineering for improved responses
 Data Infrastructure:
 
-# PostgreSQL, MongoDB, and Redis for efficient data handling
+### PostgreSQL, MongoDB, and Redis for efficient data handling
 Monitoring & Alerts:
 
-Real-time market, social feeds, and trading performance
+### Real-time market, social feeds, and trading performance
 Integrated logging, error handling, and notifications
 ## 💎 $MEME Token
 Governance: Participate in shaping MEME's future
