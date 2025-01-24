@@ -80,7 +80,7 @@ Security & Best Practices 🔒
 ## Author
 
 ### Telegram: [VeerDave](https://t.me/SolVeerDave)   
-https://t.me/vladmeer67
+https://t.me/SolVeerDave
 
 ## License 📜
 MIT License - See LICENSE for more details.
