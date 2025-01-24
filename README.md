@@ -77,8 +77,10 @@ Security & Best Practices 🔒
 - Network Protection: SSL/TLS encryption and DDoS defense
 - Data Protection: Regular key rotation, audit logs, and access control
 
-## Support & Community 🤝
-GitHub Issues: Report bugs
+## Author
+
+### Telegram: [VeerDave](https://t.me/SolVeerDave)   
+https://t.me/vladmeer67
 
 ## License 📜
 MIT License - See LICENSE for more details.
